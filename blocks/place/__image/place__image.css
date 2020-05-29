@@ -2,4 +2,6 @@
   width: 100%;
   object-fit: cover;
   max-width: 435px;
+  padding-bottom: 32px;
+  margin: 0 auto;
 }
