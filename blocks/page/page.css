@@ -1,10 +1,9 @@
 .page {
-  max-width: 1440px;
   min-width: 320px;
   width: 100%;
   align-items: center;
   margin: auto;
-  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-family: Inter;
   background: #2A2C2F;
   display: flex;
   flex-direction: column;

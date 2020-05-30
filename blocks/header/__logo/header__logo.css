@@ -1,4 +1,8 @@
 .header__logo {
-  max-width: 176px;
-  max-height: 52px;
+  width: 176px;
+  height: 52px;
+  margin: 28px auto;
+  margin-left: 0;
+  fill: #fff;
+  background-image: url(../../../images/header-logo.svg);
 }

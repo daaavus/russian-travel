@@ -1,0 +1,15 @@
+.footer__nav-list {
+  display: inline;
+  list-style: none;
+  padding: 0;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .footer__nav-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 18px;
+  }
+}
+
