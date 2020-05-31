@@ -7,7 +7,7 @@
   color: #fff;
   z-index: 1;
   margin-top: 245px;
-  font-family: Inter ;
+  font-family: Inter, Arial, Helvetica, sans-serif;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
